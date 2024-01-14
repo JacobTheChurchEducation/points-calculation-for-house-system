@@ -1,0 +1,16 @@
+{
+  "name": "horus_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "read-excel-file": "^5.5.3",
+    "write-excel-file": "^1.4.21",
+    "xlsx": "^0.18.5"
+  }
+}
